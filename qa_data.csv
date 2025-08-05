@@ -1,0 +1,51 @@
+question,answer
+Yapay zeka nedir?,"Yapay zeka, bilgisayarların insan benzeri düşünme, öğrenme ve problem çözme yeteneklerini kazandığı bilim ve teknolojidir. 🔍
+
+Özellikleri:
+• Problem çözme
+• Öğrenme
+• Planlama
+• Anlama ve yorumlama"
+Makine öğrenmesi nasıl çalışır?,"Makine öğrenmesi, verilerden otomatik olarak öğrenen algoritmalar bütünüdür. Temel aşamaları:
+1️⃣ Veri toplama
+2️⃣ Model eğitimi
+3️⃣ Değerlendirme
+4️⃣ Tahmin ve uygulama"
+Derin öğrenme nedir?,"Derin öğrenme, yapay sinir ağlarının çok katmanlı versiyonlarıyla karmaşık problemleri çözmeyi amaçlayan makine öğrenmesi dalıdır.
+
+Özellikleri:
+• Çok katmanlı yapı (örneğin, CNN, RNN)
+• Özellik çıkarımı otomatik
+• Büyük veri gerektirir"
+Doğal dil işleme (NLP) ne demektir?,"Doğal Dil İşleme (NLP), bilgisayarların insan dilini anlama, analiz etme ve üretme yeteneğidir. Örnek uygulamalar:
+• Chatbotlar 🤖
+• Metin sınıflandırma
+• Makine çevirisi"
+Python yapay zeka için neden popüler?,"Python, yapay zeka için popülerdir çünkü:
+✔️ Basit ve okunabilir sözdizimi
+✔️ Geniş kütüphane desteği (TensorFlow, PyTorch, scikit-learn)
+✔️ Büyük topluluk desteği"
+Veri ön işleme neden önemlidir?,"Veri ön işleme, modelin başarısı için kritik önemdedir:
+• Eksik verilerin düzeltilmesi
+• Verilerin normalize edilmesi
+• Gürültülerin temizlenmesi
+• Özellik mühendisliği 🔧"
+Yapay zeka türleri nelerdir?,"Yapay zeka türleri:
+• Dar (Zayıf) Yapay Zeka: Belirli görevleri yapar
+• Genel (Güçlü) Yapay Zeka: İnsan gibi düşünebilir
+• Süper Yapay Zeka: İnsan zekasını aşan sistemler (henüz geliştirilmedi)"
+Denetimli öğrenme ile denetimsiz öğrenme arasındaki fark nedir?,"Denetimli öğrenme:
+• Etiketli veri kullanılır
+• Sınıflandırma ve regresyon problemleri
+
+Denetimsiz öğrenme:
+• Etiketsiz veri ile çalışır
+• Kümeleme ve boyut indirgeme"
+Yapay sinir ağları nasıl çalışır?,"Yapay sinir ağları, biyolojik sinir hücrelerinden esinlenen yapay katmanlardan oluşur. Her katmanda ağırlıklar ve aktivasyon fonksiyonları vardır. Girdi katmanından çıkış katmanına doğru bilgi iletilir ve model öğrenir."
+Overfitting nedir ve nasıl önlenir?,"Overfitting, modelin eğitim verisine aşırı uyum sağlamasıdır, bu da genelleme performansını düşürür.
+
+Önleme yöntemleri:
+• Daha fazla veri
+• Düzenlileştirme (Regularization)
+• Erken durdurma (Early stopping)
+• Dropout"
